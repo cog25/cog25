@@ -1,11 +1,10 @@
-# WIP...
+# This Page is WIP...
 
 ### Hi there 👋
-
-I'm Middle School Student.  
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=ef5350&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:kr.cog25@gmail.com?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)
+I'm Middle School Student in South Korea. 
 
 ### Skills
+Every Skill is WIP...  
 ![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
 ![TypeScript](https://img.shields.io/badge/-Typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=fff) 
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
@@ -19,6 +18,8 @@ I'm Middle School Student.
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true)
 
 # Content
+[![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=ef5350&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:kr.cog25@gmail.com?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)  
+
 
 <!--
 **cog25/cog25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
