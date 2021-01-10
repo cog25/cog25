@@ -17,7 +17,7 @@ Every Skill is WIP...
 
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true)
 
-# Content
+### Content
 [![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=ef5350&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:kr.cog25@gmail.com?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)  
 
 
