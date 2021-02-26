@@ -18,7 +18,7 @@ I'm Middle School Student in South Korea.
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true)
 
 ### Content
-[![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=ef5350&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:kr.cog25@gmail.com?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)  
+[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)  
 
 
 <!--
