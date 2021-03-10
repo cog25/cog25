@@ -18,7 +18,7 @@ I'm Middle School Student in South Korea.
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true&show_icons=true&theme=dark)
 
 ### Content
-[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)  
+[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=kr.cog25@gmail.com&body=Hi.%20%20Found%20you%20from%20GitHub.)
 [![Kakaotalk](https://cdn.discordapp.com/attachments/802419174156402688/819122190519631912/Frame.svg)](https://open.kakao.com/me/cog)
 
 
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
