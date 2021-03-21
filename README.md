@@ -14,8 +14,9 @@ I'm Middle School Student in South Korea.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
 
 ### Stats
-
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true&show_icons=true&theme=dark)
+### Most Used Languages
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Content
 [![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=cog@cog.land&body=Hi.%20%20Found%20you%20from%20GitHub.)
