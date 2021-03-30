@@ -22,7 +22,7 @@ I'm Middle School Student in South Korea.
 
 ### Content
 [![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=cog@cog.land&body=Hi.%20%20Found%20you%20from%20GitHub.)
-[![Kakaotalk](https://cdn.discordapp.com/attachments/802419174156402688/819122190519631912/Frame.svg)](https://open.kakao.com/me/cog)
+<!--[![Kakaotalk](https://cdn.discordapp.com/attachments/802419174156402688/819122190519631912/Frame.svg)](https://open.kakao.com/me/cog)-->
 
 
 <!--
