@@ -1,7 +1,8 @@
 # This Page is WIP...
 
 ### Hi there 👋
-I'm Middle School Student in South Korea. 
+I'm Middle School Student in South Korea.  
+And I :heart: ![TypeScript](https://img.shields.io/badge/-Typescript-2d79c7?style=flat-square&logo=typescript&logoColor=fff).
 
 ### Projects
 - WIP
