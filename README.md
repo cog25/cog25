@@ -25,6 +25,10 @@ Everything is WIP ⛏️
 [![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=cog@cog.land&body=Hi.%20%20Found%20you%20from%20GitHub.)
 <!--[![Kakaotalk](https://cdn.discordapp.com/attachments/802419174156402688/819122190519631912/Frame.svg)](https://open.kakao.com/me/cog)-->
 
+---
+I Remember ![🎗️0416](https://en.wikipedia.org/wiki/Yellow_Ribbon_Campaign_and_Sewol_Ferry_Protest_Movement)
+
+I Hate ![Internet Explorer](https://death-to-ie11.com/)
 
 <!--
 **cog25/cog25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
