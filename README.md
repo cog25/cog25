@@ -1,27 +1,11 @@
-# Hi there 👋
-
-I'm Student in Republic of Korea.
-
-# Projects
-
-⛏️⛏️⛏️
-
-# 📚 Technologies
-
-## Languages
-
-![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-Typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python3](https://img.shields.io/badge/-Python3-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![CPP](https://img.shields.io/badge/-C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
-![JAVA](https://img.shields.io/badge/-JAVA-007396.svg?style=for-the-badge&logo=JAVA)
-
-## Framework & Library
-
-//TODO: Someday
-
 ![MY Github Stats](https://github-readme-stats.vercel.app/api?username=cog25&count_private=true&show_icons=true&theme=dark)
+
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cog25&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=cog25)](https://solved.ac/cog25)
 
 ### Content
 
