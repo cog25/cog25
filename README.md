@@ -9,4 +9,4 @@
 
 ### Content
 
-[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog@cog.land?subject=From%20GitHub&cc=cog25@cog.land&body=Hi.%20%20Found%20you%20from%20GitHub.)
+[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog25@cog.land?subject=From%20GitHub&body=Hi.%20%20I%20found%20you%20from%20GitHub.)
