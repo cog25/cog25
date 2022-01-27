@@ -11,4 +11,5 @@
 > Reinventing the wheel is sometimes _extreamly_ exciting
 
 ### Content
-[![Mail](https://img.shields.io/badge/%20-Mail-black?color=3B81C2&style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cog25@cog.land)
+[![Mail: cog25@cog.land](https://img.shields.io/badge/Mail-cog25@cog.land-black?color=3B81C2&style=flat-square&logo=gmail&logoColor=ffffff)](mailto:cog25@cog.land)
+[![Keybase: cog25](https://img.shields.io/badge/keybase-cog25-%33A0FF?style=flat-square&logo=Keybase&logoColor=fff)](https://keybase.io/cog25)
