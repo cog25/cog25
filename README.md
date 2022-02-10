@@ -13,4 +13,4 @@
 ### Contact
 [![Mail: cog25@cog.land](https://img.shields.io/badge/Mail-github@cog.land-black?color=3B81C2&style=flat-square&logo=gmail&logoColor=ffffff)](mailto:github@cog.land)
 [![Keybase: cog25](https://img.shields.io/badge/keybase-cog25-%33A0FF?style=flat-square&logo=Keybase&logoColor=fff)](https://keybase.io/cog25)
-[![Discord: cog25#6566](https://img.shields.io/badge/Discord-cog25%236566-5865F2?style=flat-square&logo=Discord&logoColor=fff)](./#Contact)
+[![Discord: cog25#6566](https://img.shields.io/badge/Discord-cog25%236566-5865F2?style=flat-square&logo=Discord&logoColor=fff)])
