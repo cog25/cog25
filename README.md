@@ -11,6 +11,6 @@
 > Problem-Soving is _extreamly_ exciting
 
 ### Contact
-[![Mail: cog25@cog.land](https://img.shields.io/badge/Mail-public.cog25@gmail.com-black?color=3B81C2&style=flat-square&logo=gmail&logoColor=ffffff)](mailto:public.cog25@gmail.com)
+[![Mail: cog25@cog.land](https://img.shields.io/badge/Mail-gh@cog.la-black?color=3B81C2&style=flat-square&logo=gmail&logoColor=ffffff)](mailto:gh@cog.la)
 [![Keybase: cog25](https://img.shields.io/badge/keybase-cog25-%33A0FF?style=flat-square&logo=Keybase&logoColor=fff)](https://keybase.io/cog25)
 [![Discord: cog25#6566](https://img.shields.io/badge/Discord-cog25%236566-5865F2?style=flat-square&logo=Discord&logoColor=fff)](.)
