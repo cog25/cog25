@@ -8,7 +8,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cog25)](https://solved.ac/cog25)
 --->
-> Problem-Soving is _extreamly_ exciting
+> 
 
 ### Contact
 [![Mail: cog25@cog.land](https://img.shields.io/badge/Mail-gh@cog.la-black?color=3B81C2&style=flat-square&logo=gmail&logoColor=ffffff)](mailto:gh@cog.la)
