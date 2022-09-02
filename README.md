@@ -4,10 +4,11 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cog25&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
-[![Solved.ac
+[![cog25의 Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cog25)](https://solved.ac/cog25)
---->
+
 > 
 
 ### Contact
